@@ -1,0 +1,2 @@
+1. To run the application, after unzipping the files run "npm install" in the same directory to install the node modules.
+2. After installing the node modules run "npm start" in the same directory.
